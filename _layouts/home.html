@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+<!--
 <h1>Introducing</h1>
 <h2>{{ site.title }}</h2>
 
@@ -9,6 +11,12 @@ layout: default
         <li><a href="{{ post.url | relative_url }}"{{post.title}}</a></li>
     {% endfor %}
 </ul>
+-->
+
+Site's title: {{ site.title }}
+Contact email: {{ site.email }}
+Description: {{ site.description }}
+Github profile: {{ site.github_username }}
 
 <p><a href="/about/"> Read more</a> about this site!</p>
 <p>A page about <a href="/machine_learning/"> Machine learning</a>.</p>
