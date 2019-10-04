@@ -13,7 +13,9 @@ It is divided into three main topics: linear regression, Kalman filters and non-
 
 ## Linear regression
 
-Upcoming link to pdf document...
+Upcoming description of the pdf document...
+
+<a href="https://grfreche.github.io/pdfs/LinearRegression.pdf" class="image fit">Linear Regression</a>
 
 Upcoming links to code ...
 
