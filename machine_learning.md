@@ -9,7 +9,7 @@ On this page, we address various machine learning problems
 # Regression
 
 This first part deals with the problem of regression.
-It is divided into three main topics: linear regression, Kalman filters and non-linear regression
+It is divided into three main topics: linear regression, Kalman filters and non-linear regression.
 
 ## Linear regression
 
