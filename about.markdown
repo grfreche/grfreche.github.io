@@ -19,4 +19,6 @@ You can find the source code for Jekyll at GitHub:
 
 Upcoming page for my curriculum: [CV](curriculum)
 
+A link to my CV in pdf: [CV](pdfs/Resume_2019/pdf)
+
 [jekyll-organization]: https://github.com/jekyll
