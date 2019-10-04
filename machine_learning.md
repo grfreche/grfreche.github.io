@@ -4,7 +4,7 @@ title: Machine learning
 permalink: /machine_learning/
 ---
 
-On this page, we address various machine learning problems
+On this page, we address various machine learning problems.
 
 # Regression
 
@@ -21,13 +21,17 @@ Upcoming links to code ...
 
 ## Kalman filters
 
-Upcoming link to pdf document...
+Upcoming description of the pdf document...
+
+<a href="https://grfreche.github.io/pdfs/KalmanFilters.pdf" class="image fit">Kalman Filters</a>
 
 Upcoming links to code ...
 
 ## Non-linear regression
 
-Upcoming link to pdf document...
+Upcoming description of the pdf document...
+
+<a href="https://grfreche.github.io/pdfs/NonLinearRegression.pdf" class="image fit">Non-Linear Regression</a>
 
 Upcoming links to code ...
 
