@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Machine learning
 permalink: /machine_learning/
 ---
