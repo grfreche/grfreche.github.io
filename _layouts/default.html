@@ -15,8 +15,22 @@
         <link rel="stylesheet" type="text/css" href="/assets/" />
     {% endfor %}
     
+    <style>
+      .header{
+        padding: 30px;
+        text-align: center;
+        background: white;
+      }
+    </style>
+    
   </head>
   
   <body>
+    <div class="header">
+      <h1>My website</h1>
+      <p>Small description text</p>
+    </div>
+    
     {{ content }}
+  </body>
 </html>
