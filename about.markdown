@@ -19,6 +19,6 @@ You can find the source code for Jekyll at GitHub:
 
 Upcoming page for my curriculum: [CV](curriculum)
 
-A link to my CV in pdf: <a href="/pdfs/Resume_2019.pdf" class="image fit">CV</a>
+A link to my CV in pdf: <a href="../pdfs/Resume_2019.pdf" class="image fit">CV</a>
 
 [jekyll-organization]: https://github.com/jekyll
