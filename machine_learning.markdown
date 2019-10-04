@@ -1,24 +1,30 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Machine learning
+permalink: /machine_learning/
 ---
 
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+On this page, we address various machine learning problems
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Regression
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll) 
+This first part deals with the problem of regression.
+It is divided into three main topics: linear regression, Kalman filters and non-linear regression
 
-[A link to google](https://www.google.com)
+## Linear regression
 
-Upcoming page for my curriculum: [CV](curriculum)
--->
+Upcoming link to pdf document...
 
+## Kalman filters
+
+Upcoming link to pdf document...
+
+## Non-linear regression
+
+Upcoming link to pdf document...
+
+<!--
 A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf" class="image fit">CV</a>
+-->
 
 [jekyll-organization]: https://github.com/jekyll
