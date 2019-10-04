@@ -15,6 +15,6 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 Upcoming page with my curriculum:
-[Curriculum][curriculum]
+[Google:][www.google.com]
 
 [jekyll-organization]: https://github.com/jekyll
