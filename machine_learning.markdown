@@ -15,13 +15,19 @@ It is divided into three main topics: linear regression, Kalman filters and non-
 
 Upcoming link to pdf document...
 
+Upcoming links to pdf document...
+
 ## Kalman filters
 
 Upcoming link to pdf document...
 
+Upcoming links to pdf document...
+
 ## Non-linear regression
 
 Upcoming link to pdf document...
+
+Upcoming links to pdf document...
 
 <!--
 A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf" class="image fit">CV</a>
