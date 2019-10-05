@@ -18,14 +18,11 @@ Upcoming description of the pdf document...
 <a href="https://grfreche.github.io/pdfs/LinearRegression.pdf" class="image fit">Linear Regression</a>
 
 Code for polynomial regression:
-* Add link to polynomial regression python
-<a href="https://grfreche.github.io/sources/linear_regression/Polynomial_regression.py" class="image fit">Polynomial regression</a>
+* <a href="https://grfreche.github.io/sources/linear_regression/Polynomial_regression.py" class="image fit">Python script for polynomial regression</a>
 
 Code for the weighted RLS applied to speech signals
-* Add link to RLS for speech signal
-* Add link to example wav file
-
-Upcoming links to code ...
+* <a href="https://grfreche.github.io/sources/linear_regression/RLS_speech_signal.py" class="image fit">Python script for weighted RLS applied to speech signal</a>
+* <a href="https://grfreche.github.io/sources/linear_regression/hello.wav" class="image fit">An example of wave file to use with script</a>
 
 ## Kalman filters
 
