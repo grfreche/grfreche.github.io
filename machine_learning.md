@@ -17,9 +17,8 @@ The main difference between these two problems is the nature of the output:
 * in regression, both input and output are numerical values,
 scalars or vectors, and we aim at finding the mathematical mapping
 which gives the best prediction of the ouput,
-in a sense that we will define in the next sections;
-* in classification, the output is a **label**
-belonging to a finite or countable set,
+in a sense that we will define in the documents;
+* in classification, the output is a **label** belonging to a finite or countable set,
 and we aim at determining the correct label associated with the input.
 
 
