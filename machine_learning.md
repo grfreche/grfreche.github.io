@@ -46,11 +46,13 @@ Code for the weighted RLS applied to speech signals:
 
 ## Kalman filters
 
-Upcoming description of the pdf document...
+In <a href="https://grfreche.github.io/pdfs/KalmanFilters.pdf" class="image fit">this document</a>,
+we introduce a generalization of linear regression: **Kalman filters**,
+we derive their update equations and the corresponding algorithm, and we apply them on some examples.
 
-<a href="https://grfreche.github.io/pdfs/KalmanFilters.pdf" class="image fit">Kalman Filters</a>
-
-Upcoming links to code ...
+Code for Kalman filters:
+* Python script for Kalman filters
+* A C++ version is coming soon...
 
 ## Non-linear regression
 
