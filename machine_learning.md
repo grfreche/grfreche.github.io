@@ -21,20 +21,26 @@ in a sense that we will define in the documents;
 * in classification, the output is a **label** belonging to a finite or countable set,
 and we aim at determining the correct label associated with the input.
 
+In this part, we will mainly focus on regression, but we will also deal with a simplified classification problem
+seen as a special case of regression. Supervised learning algorithms work in two stages:
+* a **training** stage, during which the algorithm is fed with examples of input and output
+and construct a model mapping them while minimizing some cost function;
+* a **test** stage, during which the algorithm is only fed with input
+and uses its learned model to estimate the output.
 
-This first part deals with the problem of regression.
-It is divided into three main topics: linear regression, Kalman filters and non-linear regression.
+We will insist on this machine learning aspect in our examples. 
 
 ## Linear regression
 
-Upcoming description of the pdf document...
-
-<a href="https://grfreche.github.io/pdfs/LinearRegression.pdf" class="image fit">Linear Regression</a>
+In <a href="https://grfreche.github.io/pdfs/LinearRegression.pdf" class="image fit">this document</a>,
+we present the simplest model of regression: **linear regression**.
+We introduce the model, we derive **least squares** exact solution and **recursive least squares** (RLS) algorithm,
+we extend to some variants of the model and we apply these results to **autoregressive signals**.
 
 Code for polynomial regression:
 * <a href="https://grfreche.github.io/sources/linear_regression/Polynomial_regression.py" class="image fit">Python script for polynomial regression</a>
 
-Code for the weighted RLS applied to speech signals
+Code for the weighted RLS applied to speech signals:
 * <a href="https://grfreche.github.io/sources/linear_regression/RLS_speech_signal.py" class="image fit">Python script for weighted RLS applied to speech signal</a>
 * <a href="https://grfreche.github.io/sources/linear_regression/hello.wav" class="image fit">An example of wave file to use with script</a>
 
