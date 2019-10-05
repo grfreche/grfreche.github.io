@@ -8,6 +8,21 @@ On this page, we address various machine learning problems.
 
 # Regression
 
+Imagine a system working like a black box,
+that we can feed with some input and observe the corresponding output.
+**Regression** and **classification** are two important problems
+met in adaptive filtering and supervised machine learning,
+aiming at modeling the behavior of this system and predicting its output.
+The main difference between these two problems is the nature of the output:
+* in regression, both input and output are numerical values,
+scalars or vectors, and we aim at finding the mathematical mapping
+which gives the best prediction of the ouput,
+in a sense that we will define in the next sections;
+* in classification, the output is a **label**
+belonging to a finite or countable set,
+and we aim at determining the correct label associated with the input.
+
+
 This first part deals with the problem of regression.
 It is divided into three main topics: linear regression, Kalman filters and non-linear regression.
 
