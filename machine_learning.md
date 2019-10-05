@@ -11,7 +11,7 @@ On this page, we address various machine learning problems.
 Imagine a system working like a black box,
 that we can feed with some input and observe the corresponding output.
 **Regression** and **classification** are two important problems
-met in adaptive filtering and supervised machine learning,
+met in **adaptive filtering** and **supervised machine learning**,
 aiming at modeling the behavior of this system and predicting its output.
 The main difference between these two problems is the nature of the output:
 * in regression, both input and output are numerical values,
