@@ -17,6 +17,13 @@ Upcoming description of the pdf document...
 
 <a href="https://grfreche.github.io/pdfs/LinearRegression.pdf" class="image fit">Linear Regression</a>
 
+Code for polynomial regression:
+..* Add link to polynomial regression python
+
+Code for the weighted RLS applied to speech signals
+..* Add link to RLS for speech signal
+..* Add link to example wav file
+
 Upcoming links to code ...
 
 ## Kalman filters
