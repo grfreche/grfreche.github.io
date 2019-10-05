@@ -19,7 +19,7 @@ Upcoming description of the pdf document...
 
 Code for polynomial regression:
 * Add link to polynomial regression python
-<a href="https://grfreche.github.io/pdfs/sources/linear_regression/Polynomial_regression.py" class="image fit">Polynomial regression</a>
+<a href="https://grfreche.github.io/sources/linear_regression/Polynomial_regression.py" class="image fit">Polynomial regression</a>
 
 Code for the weighted RLS applied to speech signals
 * Add link to RLS for speech signal
