@@ -57,9 +57,9 @@ Code for Kalman filters:
 
 ## Non-linear regression
 
-Upcoming description of the pdf document...
-
-<a href="https://grfreche.github.io/pdfs/NonLinearRegression.pdf" class="image fit">Non-Linear Regression</a>
+In <a href="https://grfreche.github.io/pdfs/NonLinearRegression.pdf" class="image fit">this document</a>,
+we extend to **non-linear regression**, we talk about **Newton-Raphson method** and **gradient descent**,
+and we apply these results to a simplified version of neural networks: the **single-neuron classifier**.
 
 Upcoming links to code ...
 
