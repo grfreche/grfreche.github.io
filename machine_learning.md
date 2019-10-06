@@ -63,8 +63,11 @@ and we apply these results to a simplified version of neural networks: the **sin
 
 Upcoming links to code ...
 
-<!--
-A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf" class="image fit">CV</a>
--->
+I'm testing Python script integration:
+```python
+#Testing Python script integration...
+my_str = "Hello world!"
+print(my_str)
+```
 
 [jekyll-organization]: https://github.com/jekyll
