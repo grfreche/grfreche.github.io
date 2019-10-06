@@ -7,5 +7,5 @@ permalink: machine_learning/python_polynomial_regression/
 On this page, we are going to display Python code...
 
 ```python
-{% include coucou.py %}
+{% include linear_regression/Polynomial_regression.py %}
 ```
