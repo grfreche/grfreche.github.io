@@ -51,7 +51,7 @@ we introduce a generalization of linear regression: **Kalman filters**,
 we derive their update equations and the corresponding algorithm, and we apply them on some examples.
 
 Code for Kalman filters:
-* <a href="https://grfreche.github.io/sources/kalman_filters/Kalman_trajectory_tracking.py" class="image fit">Python script for Kalman filters</a>
+* <a href="python_kalman" class="image fit">Python script for Kalman filters</a>
 
 * A C++ version is coming soon...
 
