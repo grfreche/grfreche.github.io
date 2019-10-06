@@ -69,11 +69,5 @@ I'm testing Python script integration:
 my_str = "Hello world!"
 print(my_str)
 ```
-Another try:
-{% highlight python %}
-#Testing Python script integration...
-my_str = "Hello world!"
-print(my_str)
-{% endhighlight %}
 
 [jekyll-organization]: https://github.com/jekyll
