@@ -38,7 +38,7 @@ We introduce the model, we derive **least squares** exact solution and **recursi
 we extend to some variants of the model and we apply these results to **autoregressive signals**.
 
 Code for polynomial regression:
-* <a href="python_polynomial_regression" class="image fit">Another link for beautiful Python script highlighting</a>
+* <a href="python_polynomial_regression" class="image fit">Python script for polynomial regression</a>
 
 Code for the weighted RLS applied to speech signals:
 * <a href="https://grfreche.github.io/sources/linear_regression/RLS_speech_signal.py" class="image fit">Python script for weighted RLS applied to speech signal</a>
