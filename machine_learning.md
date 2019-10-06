@@ -39,6 +39,7 @@ we extend to some variants of the model and we apply these results to **autoregr
 
 Code for polynomial regression:
 * <a href="https://grfreche.github.io/sources/linear_regression/Polynomial_regression.py" class="image fit">Python script for polynomial regression</a>
+* Another link for beautiful Python script highlighting
 
 Code for the weighted RLS applied to speech signals:
 * <a href="https://grfreche.github.io/sources/linear_regression/RLS_speech_signal.py" class="image fit">Python script for weighted RLS applied to speech signal</a>
