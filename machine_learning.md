@@ -38,7 +38,6 @@ We introduce the model, we derive **least squares** exact solution and **recursi
 we extend to some variants of the model and we apply these results to **autoregressive signals**.
 
 Code for polynomial regression:
-* <a href="https://grfreche.github.io/sources/linear_regression/Polynomial_regression.py" class="image fit">Python script for polynomial regression</a>
 * <a href="python_polynomial_regression" class="image fit">Another link for beautiful Python script highlighting</a>
 
 Code for the weighted RLS applied to speech signals:
@@ -63,12 +62,5 @@ we extend to **non-linear regression**, we talk about **Newton-Raphson method** 
 and we apply these results to a simplified version of neural networks: the **single-neuron classifier**.
 
 Upcoming links to code ...
-
-I'm testing Python script integration:
-```python
-#Testing Python script integration...
-my_str = "Hello world!"
-print(my_str)
-```
 
 [jekyll-organization]: https://github.com/jekyll
