@@ -37,6 +37,9 @@ we present the simplest model of regression: **linear regression**.
 We introduce the model, we derive **least squares** exact solution and **recursive least squares** (RLS) algorithm,
 we extend to some variants of the model and we apply these results to **autoregressive signals**.
 
+Code for linear regression:
+* <a href="python_RLS" class="image fit">Python script for linear regression</a>
+
 Code for polynomial regression:
 * <a href="python_polynomial_regression" class="image fit">Python script for polynomial regression</a>
 
