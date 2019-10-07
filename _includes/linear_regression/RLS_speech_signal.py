@@ -15,7 +15,7 @@ fig_size =  [fig_width,fig_height]
 
 
 # Weighted RLS function
-def RLS_autoregressive(data, m, lamb):
+def RLS_autoregressive(data, m, lamb, delta):
     """
         Applies Recursive Least Squares algorithm with forgetting factor
         on autoregressive signals
@@ -23,9 +23,11 @@ def RLS_autoregressive(data, m, lamb):
         :param data: the autogressive signal on which the RLS algorithm is applied
         :param m: order of the autoregressive model
         :param lamb: the forgetting factor lambda
+        :param delta: factor to initialize matrix P
         :type data: numpy.ndarray
         :type m: int
         :type lamb: float
+        :type delta: float
         :return histo_weights: a table keeping track of all the weights estimated
         during the algorithm
         :return error_weights: error between signal sample and estimated sample
@@ -39,16 +41,17 @@ def RLS_autoregressive(data, m, lamb):
     error_weights = zeros(n-m)
     
     # Recursive Least Squares algorithm
-    # Randomly generate estimated weights
-    estim_weights = randn(m)
+    # Generate estimated weights
+    estim_weights = zeros(m)
+    
     histo_weights[0,:] = estim_weights
     # Initialize matrix P
-    P = identity(m)
+    P = identity(m)*delta
     
     for k in range(n-m-1):
-        #C onvert data
+        # Convert data
         x = data[k:k+m]
-        y = data[k+m+1]
+        y = data[k+m]
         
         # Update gain vector g
         denom = lamb + (x @ P @ (x.T))
@@ -59,7 +62,7 @@ def RLS_autoregressive(data, m, lamb):
         histo_weights[k+1,:] = estim_weights
         
         # Update matrix P
-        P = (identity(m) - outer(g, x))*P/lamb
+        P = (identity(m) - outer(g, x))@P/lamb
         
         # Compute error
         error_weights[k] = (y - (x @ estim_weights))**2
@@ -88,17 +91,20 @@ fig1.savefig('speech_signal.png', dpi=200)
 # Order of the autoregressive model
 m = 10
 
+# Factor for initialization of matrix P
+delta = 100
+
 # RLS with forgetting factor 1
 lamb = 1
-histo_weights1, error_weights1 = RLS_autoregressive(data, m, lamb)
+histo_weights1, error_weights1 = RLS_autoregressive(data, m, lamb, delta)
 
 # RLS with forgetting factor 0.92
-lamb = 0.92
-histo_weights2, error_weights2 = RLS_autoregressive(data, m, lamb)
+lamb = 0.95
+histo_weights2, error_weights2 = RLS_autoregressive(data, m, lamb, delta)
 
 # RLS with forgetting factor 0.89
-lamb = 0.89
-histo_weights3, error_weights3 = RLS_autoregressive(data, m, lamb)
+lamb = 0.90
+histo_weights3, error_weights3 = RLS_autoregressive(data, m, lamb, delta)
 
 # Time axis for RLS weights
 t_autoreg = t[:-m]
@@ -110,7 +116,7 @@ ax2[0].grid()
 ax2[0].set_ylabel('$\lambda = 1$')
 ax2[1].plot(t_autoreg, histo_weights3,'-', linewidth=1.5)
 ax2[1].grid()
-ax2[1].set_ylabel('$\lambda = 0.89$')
+ax2[1].set_ylabel('$\lambda = 0.90$')
 ax2[1].set_xlabel('time (s)')
 fig2.set_size_inches(fig_size)
 fig2.show()
@@ -132,9 +138,9 @@ error_weights_average = error_weights_average/win_leng
 # Plot error evolution over time
 fig3, ax3 = plt.subplots()
 ax3.plot(t_autoreg[::win_leng], log10(error_weights_average[0,:]),'r-', linewidth=1.5, label='$\lambda = 1$')
-ax3.plot(t_autoreg[::win_leng], log10(error_weights_average[1,:]),'b-', linewidth=1.5, label='$\lambda = 0.92$')
+ax3.plot(t_autoreg[::win_leng], log10(error_weights_average[1,:]),'b-', linewidth=1.5, label='$\lambda = 0.95$')
 ax3.plot(t_autoreg[::win_leng], log10(error_weights_average[2,:]),'g-', linewidth=1.5,
-label='$\lambda = 0.89$')
+label='$\lambda = 0.90$')
 ax3.grid()
 ax3.set_xlabel('time (s)')
 ax3.set_ylabel('$\log_{10}($error$)$')
