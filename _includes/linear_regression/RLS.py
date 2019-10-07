@@ -1,6 +1,5 @@
 # The Recursive Least Squares algorithm for linear regression
 
-#import numpy as np
 from numpy import zeros, identity, outer, sqrt
 from numpy.random import randn, uniform
 import matplotlib.pyplot as plt
