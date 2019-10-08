@@ -64,9 +64,9 @@ we extend to **non-linear regression**, we talk about **Newton-Raphson method** 
 and we apply these results to a simplified version of neural networks: the **single-neuron classifier**.
 
 Code for Single Neuron Classifiers:
-* Python script for SNC affine separation
-* Python script for SNC quadratic separation
-* Python script for error estimation of SNC affine separation
-* Python script for error estimation of SNC quadratic separation
+* <a href="python_SNC_affine" class="image fit">Python script for SNC affine separation</a>
+* <a href="python_SNC_quadratic" class="image fit">Python script for SNC quadratic separation</a>
+* <a href="python_SNC_affine_error" class="image fit">Python script for error estimation of SNC affine separation</a>
+* <a href="python_SNC_quadratic_error" class="image fit">Python script for error estimation of SNC quadratic separation</a>
 
 [jekyll-organization]: https://github.com/jekyll
