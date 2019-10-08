@@ -43,7 +43,7 @@ Code for linear regression:
 Code for polynomial regression:
 * <a href="python_polynomial_regression" class="image fit">Python script for polynomial regression</a>
 
-Code for the weighted RLS applied to speech signals:
+Code for the weighted RLS algorithm applied to speech signals:
 * <a href="python_weighted_RLS" class="image fit">Python script for weighted RLS applied to speech signal</a>
 * <a href="https://grfreche.github.io/sources/linear_regression/hello.wav" class="image fit">An example of wave file to use with script</a>
 
