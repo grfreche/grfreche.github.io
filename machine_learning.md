@@ -55,7 +55,6 @@ we derive their update equations and the corresponding algorithm, and we apply t
 
 Code for Kalman filters:
 * <a href="python_kalman" class="image fit">Python script for Kalman filters</a>
-
 * A C++ version is coming soon...
 
 ## Non-linear regression
@@ -64,6 +63,10 @@ In <a href="https://grfreche.github.io/pdfs/NonLinearRegression.pdf" class="imag
 we extend to **non-linear regression**, we talk about **Newton-Raphson method** and **gradient descent**,
 and we apply these results to a simplified version of neural networks: the **single-neuron classifier**.
 
-Upcoming links to code ...
+Code for Single Neuron Classifiers:
+* Python script for SNC affine separation
+* Python script for SNC quadratic separation
+* Python script for error estimation of SNC affine separation
+* Python script for error estimation of SNC quadratic separation
 
 [jekyll-organization]: https://github.com/jekyll
