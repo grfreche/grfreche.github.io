@@ -8,4 +8,6 @@ permalink: machine_learning/cpp_kalman/
 
 ## main.cpp
 
-Coucou
+```cpp
+{% include kalman_filters_cpp/main.cpp %}
+```
