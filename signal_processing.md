@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine learning
+title: Signal processing
 permalink: /signal_processing/
 ---
 
