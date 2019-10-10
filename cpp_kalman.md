@@ -33,7 +33,7 @@ int main(int argc, const char * argv[]) {
     
     // Kalman filter's model matrices
     // Matrix F
-    vector<vector<double>> matF = {{1, dt}, {0, 1}};
+    vector<vector<double>> matF = { {1, dt}, {0, 1} };
     // Matrix Rv
     double sigma_a = 0.2;
     vector<vector<double>> matRv = {{sigma_a*sigma_a*pow(dt, 4.)/4, sigma_a*sigma_a*pow(dt, 3.)/2},
