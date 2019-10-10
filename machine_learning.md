@@ -55,7 +55,7 @@ we derive their update equations and the corresponding algorithm, and we apply t
 
 Code for Kalman filters:
 * <a href="python_kalman" class="image fit">Python script for Kalman filters</a>
-* A C++ version is coming soon...
+* <a href="cpp_kalman" class="image fit">C++ version</a>
 
 ## Non-linear regression
 
