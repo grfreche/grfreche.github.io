@@ -27,4 +27,12 @@ int main(){
 
 ## KalmanFilter.hpp
 
+```cpp
+{% include kalman_filters_cpp/KalmanFilter.hpp %}
+```
+
 ## KalmanFilter.cpp
+
+```cpp
+{% include kalman_filters_cpp/KalmanFilter.cpp %}
+```
