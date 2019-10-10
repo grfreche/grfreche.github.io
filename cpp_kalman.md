@@ -36,13 +36,13 @@ int main(int argc, const char * argv[]) {
     vector<vector<double>> matF = { {1, dt}, {0, 1} };
     // Matrix Rv
     double sigma_a = 0.2;
-    vector<vector<double>> matRv = {{sigma_a*sigma_a*pow(dt, 4.)/4, sigma_a*sigma_a*pow(dt, 3.)/2},
-        {sigma_a*sigma_a*pow(dt, 3.)/2, dt*dt*sigma_a*sigma_a}};
+    vector<vector<double>> matRv = { {sigma_a*sigma_a*pow(dt, 4.)/4, sigma_a*sigma_a*pow(dt, 3.)/2},
+        {sigma_a*sigma_a*pow(dt, 3.)/2, dt*dt*sigma_a*sigma_a} };
     // Matrix H
-    vector<vector<double>> matH = {{1, 0}};
+    vector<vector<double>> matH = { {1, 0} };
     // Matrix Ru
     double sigma_noise = 30;
-    vector<vector<double>> matRu = {{sigma_noise*sigma_noise}};
+    vector<vector<double>> matRu = { {sigma_noise*sigma_noise} };
     
     // Construct Kalman filter
     KalmanFilter filter = KalmanFilter(2,1, Matrix(matF), Matrix(matRv), Matrix(matH), Matrix(matRu));
