@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine learning
+title: Maths
 permalink: /maths/
 ---
 
