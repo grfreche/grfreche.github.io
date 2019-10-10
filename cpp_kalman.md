@@ -9,7 +9,7 @@ permalink: machine_learning/cpp_kalman/
 ## main.cpp
 
 ```cpp
-{% include kalman_filters_cpp/main_file.cpp %}
+{% include kalman_filters_cpp/m_file.cpp %}
 ```
 ## Matrix.hpp
 
