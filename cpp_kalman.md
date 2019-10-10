@@ -8,30 +8,30 @@ permalink: machine_learning/cpp_kalman/
 
 ## main.cpp
 
-```python
+```cpp
 {% include kalman_filters_cpp/main.cpp %}
 ```
 
 ## Matrix.hpp
 
-```python
+```cpp
 {% include kalman_filters_cpp/Matrix.hpp %}
 ```
 
 ## Matrix.cpp
 
-```python
+```cpp
 {% include kalman_filters_cpp/Matrix.cpp %}
 ```
 
 ## KalmanFilter.hpp
 
-```python
+```cpp
 {% include kalman_filters_cpp/KalmanFilter.hpp %}
 ```
 
 ## KalmanFilter.cpp
 
-```python
+```cpp
 {% include kalman_filters_cpp/KalmanFilter.cpp %}
 ```
