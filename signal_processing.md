@@ -15,12 +15,20 @@ This series of documents is inspired by the classes that I gave then.
 
 ## Lecture 2 - Heaviside step function
 
+<a href="https://grfreche.github.io/pdfs/Lec2 - Heaviside step function.pdf" class="image fit">Read document</a>
+
 ## Lecture 3 - Dirac delta function
+
+<a href="https://grfreche.github.io/pdfs/Lec3 - Dirac delta function.pdf" class="image fit">Read document</a>
 
 ## Lecture 4 - LTI systems and convoltion
 
+<a href="https://grfreche.github.io/pdfs/Lec4 - LTI systems and convolution.pdf" class="image fit">Read document</a>
+
 ## Lecture 5 - Correlation
+
+<a href="https://grfreche.github.io/pdfs/Lec5 - Correlation.pdf" class="image fit">Read document</a>
 
 ## Lecture 6 - Periodic signals
 
-In <a href="https://grfreche.github.io/pdfs/AnalogSignals.pdf" class="image fit">this document</a>, we introduce analog signals and systems and we talk about Heaviside step function, Dirac delta function, linear time-invariant systems, convolution, correlation and periodic signals.
+<a href="https://grfreche.github.io/pdfs/Lec6 - Periodic signals.pdf" class="image fit">Read document</a>
