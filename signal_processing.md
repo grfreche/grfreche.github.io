@@ -21,7 +21,7 @@ This series of documents is inspired by the classes that I gave then.
 
 <a href="https://grfreche.github.io/pdfs/Lec3 - Dirac delta function.pdf" class="image fit">Read document</a>
 
-## Lecture 4 - LTI systems and convoltion
+## Lecture 4 - LTI systems and convolution
 
 <a href="https://grfreche.github.io/pdfs/Lec4 - LTI systems and convolution.pdf" class="image fit">Read document</a>
 
