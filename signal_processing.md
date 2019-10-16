@@ -32,3 +32,13 @@ This series of documents is inspired by the classes that I gave then.
 ## Lecture 6 - Periodic signals
 
 <a href="https://grfreche.github.io/pdfs/Lec6 - Periodic signals.pdf" class="image fit">Read document</a>
+
+# Fourier theory
+
+## Lecture 7 - Diagonalization
+
+<a href="https://grfreche.github.io/pdfs/Lec7 - Diagonalization.pdf" class="image fit">Read document</a>
+
+## Lecture 8 - Fourier series
+
+<a href="https://grfreche.github.io/pdfs/Lec8 - Fourier series.pdf" class="image fit">Read document</a>
