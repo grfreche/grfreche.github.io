@@ -4,7 +4,7 @@ title: Signal processing
 permalink: /signal_processing/
 ---
 
-In Fall 2016, I was instructor at Georgia Tech, teaching ECE 3084 - Signals and systems.
+In Fall 2016, I was an instructor at Georgia Tech, teaching ECE 3084 - Signals and systems.
 This series of documents is inspired by the classes that I gave then.
 
 # Analog signals
