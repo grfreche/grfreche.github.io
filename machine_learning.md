@@ -16,7 +16,7 @@ aiming at modeling the behavior of this system and predicting its output.
 The main difference between these two problems is the nature of the output:
 * in regression, both input and output are numerical values,
 scalars or vectors, and we aim at finding the mathematical mapping
-which gives the best prediction of the ouput,
+which gives the best prediction of the output,
 in a sense that we will define in the documents;
 * in classification, the output is a **label** belonging to a finite or countable set,
 and we aim at determining the correct label associated with the input.
@@ -44,8 +44,8 @@ Code for polynomial regression:
 * <a href="python_polynomial_regression" class="image fit">Python script for polynomial regression</a>
 
 Code for the weighted RLS algorithm applied to speech signals:
-* <a href="python_weighted_RLS" class="image fit">Python script for weighted RLS applied to speech signal</a>
-* <a href="https://grfreche.github.io/sources/linear_regression/hello.wav" class="image fit">An example of wave file to use with script</a>
+* <a href="python_weighted_RLS" class="image fit">Python script for weighted RLS applied to speech signals</a>
+* <a href="https://grfreche.github.io/sources/linear_regression/hello.wav" class="image fit">An example of wav file to use with script</a>
 
 ## Kalman filters
 
@@ -60,7 +60,7 @@ Code for Kalman filters:
 ## Non-linear regression
 
 In <a href="https://grfreche.github.io/pdfs/NonLinearRegression.pdf" class="image fit">this document</a>,
-we extend to **non-linear regression**, we talk about **Newton-Raphson method** and **gradient descent**,
+we extend to **non-linear regression**, we talk about the **Newton-Raphson method** and **gradient descent**,
 and we apply these results to a simplified version of neural networks: the **single-neuron classifier**.
 
 Code for Single Neuron Classifiers:
