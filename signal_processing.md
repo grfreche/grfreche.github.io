@@ -42,3 +42,11 @@ This series of documents is inspired by the classes that I gave then.
 ## Lecture 8 - Fourier series
 
 <a href="https://grfreche.github.io/pdfs/Lec8 - Fourier series.pdf" class="image fit">Read document</a>
+
+## Lecture 9 - Fourier transform
+
+<a href="https://grfreche.github.io/pdfs/Lec9 - Fourier transform.pdf" class="image fit">Read document</a>
+
+## Lecture 10 - Frequency design
+
+<a href="https://grfreche.github.io/pdfs/Lec10 - Frequency design.pdf" class="image fit">Read document</a>
