@@ -95,4 +95,19 @@ p. 3.
 
 ## Skills
 
-... Add Skills ...
+<table cellpadding="20">
+    <tbody>
+        <tr>
+            <td>**Languages:**</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
