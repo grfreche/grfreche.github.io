@@ -60,7 +60,7 @@ Supélec, Metz, France
 Georgia Tech, Atlanta, USA
 
 * Georgia Tech:
-** ECE 3084 - Signals and Systems - Tutoring and grading.
+...* ECE 3084 - Signals and Systems - Tutoring and grading.
 
 ... Add Education ...
 
