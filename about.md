@@ -55,6 +55,12 @@ Aug. - Dec. 2016
 ... Add Professional experience ...
 
 ## Education
+**Teaching Assistant**  
+Supélec, Metz, France  
+Georgia Tech, Atlanta, USA
+
+* Georgia Tech:
+** ECE 3084 - Signals and Systems - Tutoring and grading.
 
 ... Add Education ...
 
