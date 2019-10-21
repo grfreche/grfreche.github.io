@@ -98,7 +98,7 @@ p. 3.
 <table cellpadding="20">
     <tbody>
         <tr>
-            <td>**Languages:**</td>
+            <td><b>Languages:</b></td>
             <td></td>
         </tr>
         <tr>
