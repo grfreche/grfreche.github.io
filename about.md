@@ -99,15 +99,15 @@ p. 3.
     <tbody>
         <tr>
             <td><b>Languages:</b></td>
-            <td></td>
+            <td>French (mother tongue); English (fluent); German (basic)</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td><b>Programming:</b></td>
+            <td>MATLAB, Python, C++, Mathematica</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td><b>Productivity:</b></td>
+            <td>Microsoft office, Open Office, Latex, Keynote</td>
         </tr>
     </tbody>
 </table>
