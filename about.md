@@ -28,6 +28,14 @@ A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf
 
 # Professional experience 
 
+## Mathematics and Science Teacher
+Bordeaux and Toulouse areas, France
+Since Jan. 2017
+
+* Middle school and high school levels
+* Passed the mathematics teacher certification exam in July 2018 (Top 160 over 2000+ candidates).
+* Preparation for the certification exam for highschool and university professors (Agrégation de Mathématiques).
+
 ... Add Professional experience ...
 
 # Education
