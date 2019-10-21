@@ -29,7 +29,7 @@ A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf
 # Professional experience 
 
 ## Mathematics and Science Teacher
-Bordeaux and Toulouse areas, France  
+**Bordeaux and Toulouse areas, France**  
 Since Jan. 2017
 
 * Middle school and high school levels
