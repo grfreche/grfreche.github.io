@@ -64,7 +64,11 @@ Supélec:
 * Probabilities (Junior year) ;
 * Statistical signal processing (Senior Year).
 
-... Add Professional experience ...
+### Internship
+**Laboratoire UMI2958 Georgia Tech-CNRS, Metz, France**  
+June - Nov. 2012
+
+* Subject: Comparison of distributed source coding and transform coding methods for hyperspectral imagery
 
 ## Education
 
