@@ -26,9 +26,9 @@ A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf
 * 2 Engineering Masters: Georgia Tech (Top 5 USA) and Supelec (Top 5 France).
 * Interested in signal processing, telecommunications and machine learning.
 
-# Professional experience 
+## Professional experience 
 
-## Mathematics and Science Teacher
+### Mathematics and Science Teacher
 **Bordeaux and Toulouse areas, France**  
 Since Jan. 2017
 
@@ -36,7 +36,7 @@ Since Jan. 2017
 * Passed the mathematics teacher certification exam in July 2018 (Top 160 over 2000+ candidates).
 * Preparation for the certification exam for highschool and university professors (Agrégation de Mathématiques).
 
-## Research Assistant
+### Research Assistant
 **Laboratoire UMI2958 Georgia Tech-CNRS, Metz, France**  
 May 2013 - Dec. 2016
 
@@ -46,16 +46,16 @@ May 2013 - Dec. 2016
 
 ... Add Professional experience ...
 
-# Education
+## Education
 
 ... Add Education ...
 
 
-# Publication
+## Publication
 
 ... Add Publication ...
 
 
-# Skills
+## Skills
 
 ... Add Skills ...
