@@ -81,15 +81,17 @@ Atlanta, USA
 * GPA: 4.0/4.0
 
 Ecole Supérieure d’Electricité (**Supelec**)
-Engineering degree; Interactive Systems and Robotics
-2009-2012
+Engineering degree; Interactive Systems and Robotics  
+2009-2012  
 Paris area, France
+
 * Concentration: Signal Processing, Machine learning
 
 ## Publication
 
-... Add Publication ...
-
+FRÈCHE, Guillaume, BLOCH, Matthieu R., et BARRET, Michel. Polar codes for covert
+communications over asynchronous discrete memoryless channels. Entropy, 2017, vol. 20, no 1,
+p. 3.
 
 ## Skills
 
