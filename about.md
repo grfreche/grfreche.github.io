@@ -52,18 +52,23 @@ Aug. - Dec. 2016
 * Scope: lecture preparation, distance learning sessions recording, homeworks and exams writing and grading.
 * Keywords: Fourier transform, sampling, Laplace transform, control.
 
+**Teaching Assistant**  
+Supélec, Metz, France  
+Georgia Tech, Atlanta, USA  
+Jan. 2013 - Jan. 2015
+
+Georgia Tech: ECE 3084 - Signals and Systems - Tutoring and grading.
+
+Supélec:
+* Introduction to Signals and Systems (Junior year) ;
+* Probabilities (Junior year) ;
+* Statistical signal processing (Senior Year).
+
 ... Add Professional experience ...
 
 ## Education
-**Teaching Assistant**  
-Supélec, Metz, France  
-Georgia Tech, Atlanta, USA
-
-* Georgia Tech:
-...* ECE 3084 - Signals and Systems - Tutoring and grading.
 
 ... Add Education ...
-
 
 ## Publication
 
