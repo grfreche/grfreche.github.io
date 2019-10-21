@@ -72,7 +72,19 @@ June - Nov. 2012
 
 ## Education
 
-... Add Education ...
+Georgia Institute of Technology (**Georgia Tech**)  
+Master of Science in Electrical and Computer Engineering  
+2011-2013  
+Atlanta, USA
+
+* Concentration: Signal Processing, Telecommunications
+* GPA: 4.0/4.0
+
+Ecole Supérieure d’Electricité (**Supelec**)
+Engineering degree; Interactive Systems and Robotics
+2009-2012
+Paris area, France
+* Concentration: Signal Processing, Machine learning
 
 ## Publication
 
