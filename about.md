@@ -18,7 +18,7 @@ A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf
     </tbody>
 </table>
 
-# Highlights
+## Highlights
 
 *Apply my expertise and experience in signal processing and telecommunications.*
 
@@ -43,6 +43,14 @@ May 2013 - Dec. 2016
 * Advisors: Michel Barret (CentraleSupélec), Matthieu Bloch (Georgia Tech)
 * Subject: Near lossless data compression with low complexity encoder; application to spectral imagery.
 * Keywords: compression, transform coding, LDPC codes, polar codes, parametric estimation.
+
+### Instructor
+**Georgia Tech Lorraine, Metz, France**  
+Aug. - Dec. 2016
+
+* ECE 3084 - Signals and Systems.
+* Scope: lecture preparation, distance learning sessions recording, homeworks and exams writing and grading.
+* Keywords: Fourier transform, sampling, Laplace transform, control.
 
 ... Add Professional experience ...
 
