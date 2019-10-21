@@ -36,6 +36,14 @@ Since Jan. 2017
 * Passed the mathematics teacher certification exam in July 2018 (Top 160 over 2000+ candidates).
 * Preparation for the certification exam for highschool and university professors (Agrégation de Mathématiques).
 
+## Research Assistant
+**Laboratoire UMI2958 Georgia Tech-CNRS, Metz, France**  
+May 2013 - Dec. 2016
+
+* Advisors: Michel Barret (CentraleSupélec), Matthieu Bloch (Georgia Tech)
+* Subject: Near lossless data compression with low complexity encoder; application to spectral imagery.
+* Keywords: compression, transform coding, LDPC codes, polar codes, parametric estimation.
+
 ... Add Professional experience ...
 
 # Education
