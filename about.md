@@ -17,3 +17,25 @@ A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf
         </tr>
     </tbody>
 </table>
+
+# Highlights
+
+... Add highlights ...
+
+# Professional experience 
+
+... Add Professional experience ...
+
+# Education
+
+... Add Education ...
+
+
+# Publication
+
+... Add Publication ...
+
+
+# Skills
+
+... Add Skills ...
