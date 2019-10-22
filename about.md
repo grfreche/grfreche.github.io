@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf" class="image fit">CV</a>
+You can download a pdf version of this resume <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf" class="image fit">here</a>.
 
+<!--
 <table cellpadding="20">
     <tbody>
         <tr>
@@ -17,6 +18,7 @@ A link to my CV in pdf: <a href="https://grfreche.github.io/pdfs/Resume_2019.pdf
         </tr>
     </tbody>
 </table>
+-->
 
 ## Highlights
 
@@ -89,9 +91,9 @@ Paris area, France
 
 ## Publication
 
-FRÈCHE, Guillaume, BLOCH, Matthieu R., et BARRET, Michel. Polar codes for covert
-communications over asynchronous discrete memoryless channels. Entropy, 2017, vol. 20, no 1,
-p. 3.
+FRÈCHE, Guillaume, BLOCH, Matthieu R., et BARRET, Michel. Polar codes for covert communications over asynchronous discrete memoryless channels. Entropy, 2017, vol. 20, no 1, p. 3.
+
+<a href="https://hal-centralesupelec.archives-ouvertes.fr/hal-01671532/document" class="image fit">Read the paper</a>
 
 ## Skills
 
