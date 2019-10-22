@@ -50,3 +50,7 @@ This series of documents is inspired by the classes that I gave then.
 ## Lecture 10 - Frequency design
 
 <a href="https://grfreche.github.io/pdfs/Lec10 - Frequency design.pdf" class="image fit">Read document</a>
+
+## Lecture 11 - Time-frequency duality
+
+<a href="https://grfreche.github.io/pdfs/Lec11 - Time-frequency duality.pdf" class="image fit">Read document</a>
