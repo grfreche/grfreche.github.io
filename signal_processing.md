@@ -13,6 +13,8 @@ This series of documents is inspired by the classes that I gave then.
 
 <a href="https://grfreche.github.io/pdfs/Lec1 - Analog definitions.pdf" class="image fit">Read document</a>
 
+[Read the document](/pdfs/Lec1 - Analog definitions.pdf)
+
 ### Lecture 2 - Heaviside step function
 
 <a href="https://grfreche.github.io/pdfs/Lec2 - Heaviside step function.pdf" class="image fit">Read document</a>
