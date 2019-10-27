@@ -38,15 +38,14 @@ We introduce the model, we derive **least squares** exact solution and **recursi
 we extend to some variants of the model and we apply these results to **autoregressive signals**.
 
 Code for linear regression:
-* <a href="python_RLS" class="image fit">Python script for linear regression</a>
-* [Another link](python_RLS)
+* [Python script for linear regression](python_RLS)
 
 Code for polynomial regression:
-* <a href="python_polynomial_regression" class="image fit">Python script for polynomial regression</a>
+* [Python script for polynomial regression](python_polynomial_regression)
 
 Code for the weighted RLS algorithm applied to speech signals:
-* <a href="python_weighted_RLS" class="image fit">Python script for weighted RLS applied to speech signals</a>
-* <a href="https://grfreche.github.io/sources/linear_regression/hello.wav" class="image fit">An example of wav file to use with script</a>
+* [Python script for weighted RLS applied to speech signals](python_weighted_RLS)
+* [An example of wav file to use with script](/sources/linear_regression/hello.wav)
 
 ## Kalman filters
 
@@ -55,8 +54,8 @@ we introduce a generalization of linear regression: **Kalman filters**,
 we derive their update equations and the corresponding algorithm, and we apply them on some examples.
 
 Code for Kalman filters:
-* <a href="python_kalman" class="image fit">Python script for Kalman filters</a>
-* <a href="cpp_kalman" class="image fit">C++ version</a>
+* [Python script for Kalman filters](python_kalman)
+* [C++ version](cpp_kalman)
 
 ## Non-linear regression
 
@@ -65,9 +64,10 @@ we extend to **non-linear regression**, we talk about the **Newton-Raphson metho
 and we apply these results to a simplified version of neural networks: the **single-neuron classifier**.
 
 Code for Single Neuron Classifiers:
-* <a href="python_SNC_affine" class="image fit">Python script for SNC affine separation</a>
-* <a href="python_SNC_quadratic" class="image fit">Python script for SNC quadratic separation</a>
-* <a href="python_SNC_affine_error" class="image fit">Python script for error estimation of SNC affine separation</a>
-* <a href="python_SNC_quadratic_error" class="image fit">Python script for error estimation of SNC quadratic separation</a>
+
+* [Python script for SNC affine separation](python_SNC_affine)
+* [Python script for SNC quadratic separation](python_SNC_quadratic)
+* [Python script for error estimation of SNC affine separation](python_SNC_affine_error)
+* [Python script for error estimation of SNC quadratic separation](python_SNC_quadratic_error)
 
 [jekyll-organization]: https://github.com/jekyll
