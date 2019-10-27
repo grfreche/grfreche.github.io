@@ -32,7 +32,7 @@ We will insist on this machine learning aspect in our examples.
 
 ## Linear regression
 
-In <a href="https://grfreche.github.io/pdfs/LinearRegression.pdf" class="image fit">this document</a>,
+In [this document document](/pdfs/LinearRegression.pdf),
 we present the simplest model of regression: **linear regression**.
 We introduce the model, we derive **least squares** exact solution and **recursive least squares** (RLS) algorithm,
 we extend to some variants of the model and we apply these results to **autoregressive signals**.
@@ -49,7 +49,7 @@ Code for the weighted RLS algorithm applied to speech signals:
 
 ## Kalman filters
 
-In <a href="https://grfreche.github.io/pdfs/KalmanFilters.pdf" class="image fit">this document</a>,
+In [this document document](/pdfs/KalmanFilters.pdf),
 we introduce a generalization of linear regression: **Kalman filters**,
 we derive their update equations and the corresponding algorithm, and we apply them on some examples.
 
@@ -59,7 +59,7 @@ Code for Kalman filters:
 
 ## Non-linear regression
 
-In <a href="https://grfreche.github.io/pdfs/NonLinearRegression.pdf" class="image fit">this document</a>,
+In [this document document](/pdfs/NonLinearRegression.pdf),
 we extend to **non-linear regression**, we talk about the **Newton-Raphson method** and **gradient descent**,
 and we apply these results to a simplified version of neural networks: the **single-neuron classifier**.
 
