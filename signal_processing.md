@@ -11,62 +11,60 @@ This series of documents is inspired by the classes that I gave then.
 
 ### Lecture 1 - Analog definitions
 
-<a href="https://grfreche.github.io/pdfs/Lec1 - Analog definitions.pdf" class="image fit">Read document</a>
-
 [Read the document](/pdfs/Lec1 - Analog definitions.pdf)
 
 ### Lecture 2 - Heaviside step function
 
-<a href="https://grfreche.github.io/pdfs/Lec2 - Heaviside step function.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec2 - Heaviside step function.pdf)
 
 ### Lecture 3 - Dirac delta function
 
-<a href="https://grfreche.github.io/pdfs/Lec3 - Dirac delta function.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec3 - Dirac delta function.pdf)
 
 ### Lecture 4 - LTI systems and convolution
 
-<a href="https://grfreche.github.io/pdfs/Lec4 - LTI systems and convolution.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec4 - LTI systems and convolution.pdf)
 
 ### Lecture 5 - Correlation
 
-<a href="https://grfreche.github.io/pdfs/Lec5 - Correlation.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec5 - Correlation.pdf)
 
 ### Lecture 6 - Periodic signals
 
-<a href="https://grfreche.github.io/pdfs/Lec6 - Periodic signals.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec6 - Periodic signals.pdf)
 
 ## Fourier theory
 
 ### Lecture 7 - Diagonalization
 
-<a href="https://grfreche.github.io/pdfs/Lec7 - Diagonalization.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec7 - Diagonalization.pdf)
 
 ### Lecture 8 - Fourier series
 
-<a href="https://grfreche.github.io/pdfs/Lec8 - Fourier series.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec8 - Fourier series.pdf)
 
 ### Lecture 9 - Fourier transform
 
-<a href="https://grfreche.github.io/pdfs/Lec9 - Fourier transform.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec9 - Fourier transform.pdf)
 
 ### Lecture 10 - Frequency design
 
-<a href="https://grfreche.github.io/pdfs/Lec10 - Frequency design.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec10 - Frequency design.pdf)
 
 ### Lecture 11 - Time-frequency duality
 
-<a href="https://grfreche.github.io/pdfs/Lec11 - Time-frequency duality.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec11 - Time-frequency duality.pdf)
 
 ## Digital signals
 
 ### Lecture 12 - Digital signals
 
-<a href="https://grfreche.github.io/pdfs/Lec12 - Digital signals.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec12 - Digital signals.pdf)
 
 ### Lecture 13 - Sampling
 
-<a href="https://grfreche.github.io/pdfs/Lec13 - Sampling.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec13 - Sampling.pdf)
 
 ### Lecture 14 - Interpolation
 
-<a href="https://grfreche.github.io/pdfs/Lec14 - Interpolation.pdf" class="image fit">Read document</a>
+[Read the document](/pdfs/Lec14 - Interpolation.pdf)
