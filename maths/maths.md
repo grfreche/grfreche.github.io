@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maths
-permalink: /maths/maths/
+permalink: /maths/
 ---
 
 This page presents some interesting mathematics results.
