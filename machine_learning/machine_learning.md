@@ -39,6 +39,7 @@ we extend to some variants of the model and we apply these results to **autoregr
 
 Code for linear regression:
 * <a href="python_RLS" class="image fit">Python script for linear regression</a>
+[Another link](python_RLS)
 
 Code for polynomial regression:
 * <a href="python_polynomial_regression" class="image fit">Python script for polynomial regression</a>
