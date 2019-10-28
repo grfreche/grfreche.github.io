@@ -25,3 +25,11 @@ permalink: machine_learning/mlp_xor/
 ## Multilayer perceptron with 1 hidden layer of 50 neurons
 
 ![MLP_XOR_50](Figures_XOR/MLP_XOR_50.png)
+
+## Multilayer perceptron with 2 hidden layers of 10 neurons
+
+![MLP_XOR_10_10](Figures_XOR/MLP_XOR_10_10.png)
+
+## Multilayer perceptron with 2 hidden layers of 20 neurons
+
+![MLP_XOR_20_20](Figures_XOR/MLP_XOR_20_20.png)
