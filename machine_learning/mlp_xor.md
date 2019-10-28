@@ -4,6 +4,8 @@ title: Machine learning
 permalink: machine_learning/mlp_xor/
 ---
 
-# Multilayer perceptrons learning XOR
+# Neurons learning XOR
 
-Add figures...
+## Single-neuron classifier for affine separation
+
+![Screenshot](Figures_XOR/SNC_affine_XOR)
