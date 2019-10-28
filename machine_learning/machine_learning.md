@@ -73,6 +73,11 @@ Code for Single Neuron Classifiers:
 # Multilayer Perceptron
 
 In [this document](/machine_learning/pdfs/MultilayerPerceptron.pdf),
-we present the general structure of multilayer perceptrons, and derive the feed-forward and back-propagation equations and algorithms.
+we present the general structure of multilayer perceptrons, 
+and derive the **feed-forward** and **back-propagation** equations and algorithms.
+
+Code for Multilayer Perceptrons:
+
+* [C++ code](cpp_mlp)
 
 [jekyll-organization]: https://github.com/jekyll
