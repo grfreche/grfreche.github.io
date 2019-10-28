@@ -70,4 +70,9 @@ Code for Single Neuron Classifiers:
 * [Python script for error estimation of SNC affine separation](python_SNC_affine_error)
 * [Python script for error estimation of SNC quadratic separation](python_SNC_quadratic_error)
 
+# Multilayer Perceptron
+
+In [this document](/machine_learning/pdfs/MultilayerPerceptron.pdf),
+we present the general structure of multilayer perceptrons, and derive the feed-forward and back-propagation equations and algorithms.
+
 [jekyll-organization]: https://github.com/jekyll
