@@ -40,8 +40,8 @@ permalink: machine_learning/mlp_chessboard/
 
 ## Multilayer perceptron with 3 hidden layers of 10 neurons
 
-![MLP_chessboard_10_10_10](Figures_XOR/MLP_chessboard_10_10_10.png)
+![MLP_chessboard_10_10_10](Figures_chessboard/MLP_chessboard_10_10_10.png)
 
 ## Multilayer perceptron with 4 hidden layers of 10 neurons
 
-![MLP_chessboard_10_10_10_10](Figures_XOR/MLP_chessboard_10_10_10_10.png)
+![MLP_chessboard_10_10_10_10](Figures_chessboard/MLP_chessboard_10_10_10_10.png)
