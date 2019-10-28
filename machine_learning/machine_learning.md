@@ -80,4 +80,10 @@ Code for Multilayer Perceptrons:
 
 * [C++ code](cpp_mlp)
 
+We use this code to generate **neural activation maps** of multilayer perceptrons trained on the XOR and chessboard problems. 
+These maps are displayed in the following pages:
+
+* [Activation maps for the XOR problem](mlp_xor)
+* [Activation maps for the chessboard problem](mlp_chessboard)
+
 [jekyll-organization]: https://github.com/jekyll
