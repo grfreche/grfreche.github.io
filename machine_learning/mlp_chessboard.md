@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Machine learning
-permalink: machine_learning/mlp_xor/
+permalink: machine_learning/mlp_chessboard/
 ---
 
 # Neurons learning chessboard
