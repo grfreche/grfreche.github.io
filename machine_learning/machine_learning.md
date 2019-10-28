@@ -45,7 +45,7 @@ Code for polynomial regression:
 
 Code for the weighted RLS algorithm applied to speech signals:
 * [Python script for weighted RLS applied to speech signals](python_weighted_RLS)
-* [An example of wav file to use with script](/sources/linear_regression/hello.wav)
+* [An example of wav file to use with script](hello.wav)
 
 ## Kalman filters
 
