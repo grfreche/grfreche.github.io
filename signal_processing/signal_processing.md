@@ -68,3 +68,7 @@ This series of documents is inspired by the classes that I gave then.
 ### Lecture 14 - Interpolation
 
 [Read the document](/signal_processing/pdfs/Lec14 - Interpolation.pdf)
+
+### Lecture 15 - Digital Fourier transforms
+
+[Read the document](/signal_processing/pdfs/Lec15 - Digital Fourier transforms.pdf)
